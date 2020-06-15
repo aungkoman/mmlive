@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569945611477",
+    "firebase_url": "https://myanmar-live-2020.firebaseio.com",
+    "project_id": "myanmar-live-2020",
+    "storage_bucket": "myanmar-live-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569945611477:android:a1d6a3f70b49a6d632965c",
+        "android_client_info": {
+          "package_name": "com.teamcs.myanmarlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569945611477-gtesjseb0rcq6sl83f4h3vqofnp6uglq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5V1LzSBzY7FUNp7IKIEbf6svjooymMLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569945611477-gtesjseb0rcq6sl83f4h3vqofnp6uglq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

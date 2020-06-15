@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Myanmar Live</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="loading_message">လုပ်ဆောင်နေပါသည်...ခေတ္တစောင့်ပေးပါ</string>
+    <string name="exit_greeting">App မှ ထွက်ရန် back ခလုပ်ကို ထပ်နှိပ်ပေးပါ</string>
+    <!-- url -->
+    <string name="url">file:///android_asset/index.html</string>
+
+    <!-- ads code -->
+    <!-- test ads app id : ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-9127856691496092~8095288656</string>
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-9127856691496092/2695622316</string>
+    <!-- test  interstitial ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="title_activity_fullscreen">သင့်အတွက် သတင်းကောင်း</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!--
+        App id code
+        ca-app-pub-9127856691496092~8095288656
+
+        Banner code
+        ca-app-pub-9127856691496092/2695622316
+    -->
+</resources>
